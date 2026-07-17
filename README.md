@@ -103,8 +103,8 @@ class DipuSardar:
 
 ```
 M1 ████████████████████  ✅  Python · NumPy · Pandas · Matplotlib
-M2 ████████████░░░░░░░░  🔄  Math for AI: Stats · Probability · Linear Algebra
-M3 ░░░░░░░░░░░░░░░░░░░░  📌  Core ML: Regression · Classification · Clustering
+M2 ████████████████████  ✅  Math for AI: Stats · Probability · Linear Algebra
+M3 ██████████░░░░░░░░░░  🔄  Core ML: Regression · Classification · Clustering
 M4 ░░░░░░░░░░░░░░░░░░░░  📌  Deep Learning: PyTorch · CNN · BERT · HuggingFace
 M5 ░░░░░░░░░░░░░░░░░░░░  📌  GenAI & LLMs: RAG · LangChain · Agents · Docker
 M6 ░░░░░░░░░░░░░░░░░░░░  📌  Job Prep: Portfolio · Resume · Interviews
