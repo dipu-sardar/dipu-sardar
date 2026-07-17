@@ -118,10 +118,10 @@ M6 ░░░░░░░░░░░░░░░░░░░░  📌  Job Prep:
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/johndoe)
-[![X (Twitter)](https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=FFFFFF)](https://x.com/johndoe)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00D9FF)](https://johndoe.dev)
-[![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:johndoe@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)]([https://linkedin.com/in/johndoe](https://www.linkedin.com/in/dipu-sardar-1b6a07321/))
+[![X (Twitter)](https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=FFFFFF)](https://x.com/dipusardar2002)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00D9FF)](https://www.dipusardar.com)
+[![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:dipusardar.dev@gmail.com)
 
 <br/>
 
