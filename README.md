@@ -24,24 +24,6 @@
 </div>
 
 ---
-
-<div align="center">
-
-## ⚡ &nbsp; Quick Stats
-
-<br/>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&rank_icon=github)&nbsp;&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johndoe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
-
-<br/>
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=johndoe&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF)
-
-</div>
-
----
-
 ## 🧠 &nbsp; About Me
 
 ```python
